@@ -1,0 +1,29 @@
+.containerHome {
+  background-color: brown;
+}
+
+.home {
+  width: 1440px;
+}
+
+.header {
+  width: 100%;
+}
+
+.sidebar {
+  width: 256px;
+}
+
+.content {
+  width: 100%;
+}
+
+.footer {
+  width: 100%;
+}
+
+/* @media screen () {
+  .sidebar {
+    width: 100%;
+  }
+} */
