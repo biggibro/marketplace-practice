@@ -1,0 +1,25 @@
+.containerHeader {
+  display: flex;
+  align-items: center;
+  padding: 16px 32px;
+  background-color: #ffffff;
+  gap: 20px;
+}
+
+.buttonsHeader {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.buttonHeader {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.buttonsHeaderCategory,
+.buttonsHeaderUser {
+  display: flex;
+  gap: 24px;
+}
